@@ -46,7 +46,8 @@ Welcome all of you future star candidates who want to strive to attend the acade
 ## Academicians
 
 - [Farrel Ardya Ghalyndra](https://github.com/arelardya) [REL]
-  > As an academician.
+  > As an academician.  
+  > Website link -> [thisrel](https://arelardya.github.io/thisrel/)
 - [Muhammad Zaenal Abidin Abdurrahman](https://github.com/Zendin110206) [ZEN]
   > As an academician.  
   > Website link -> [zendin.vercel.app](https://zendin.vercel.app/)
@@ -61,9 +62,11 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.  
   > Website link -> (https://my-portofolio-geraldirhs-projects.vercel.app/)
 - [Muhammad Miftah Faqih](https://github.com/miftahfqih) [MIT]
-  > As an academician.
+  > As an academician.  
+  > Website link -> [portofolio-miftahfqih.vercel.app](https://portofolio-miftahfqih.vercel.app/)
 - [Stevannie Pratama](https://github.com/stevanniep) [SNI]
-  > As an academician.
+  > As an academician.  
+  > Website link -> [https://stevvporto.vercel.app/](https://stevvporto.vercel.app/)
 - [Zaidan Abdurrahman Hakim](https://github.com/zaidanah) [DUN]
   > As an academician.  
   > Website link -> [https://zaidan.vercel.app/](https://zaidan.vercel.app/)
@@ -71,14 +74,16 @@ Welcome all of you future star candidates who want to strive to attend the acade
   > As an academician.  
   > Website link -> [https://portofolio-radif.vercel.app/](https://portofolio-radif.vercel.app/)
 - [Muhammad Favian Revaldy](https://github.com/lukarukikato) [FAV]
-  > As an academician.
+   > As an academician.  
+  > Website link -> [https://faviansportfolio-lukarukikatos-projects.vercel.app/](https://faviansportfolio-lukarukikatos-projects.vercel.app/)
 - [Muhammad Hafiz](https://github.com/mhafiz03) [MHZ]
   > As an academician.  
   > Website link -> [mhafiz03.github.io](https://mhafiz03.github.io/)
 - [Wijdan Insania Kuncoro](https://github.com/wijdanmkh-insk) [DAN]
   > As an academician.
 - [Yattaqi Muazirul Mulki](https://github.com/ukiirving) [UKI]
-  > As an academician.
+  > As an academician.  
+  > Website link -> [portouki.vercel.app](https://portouki.vercel.app/)
 - [Mohammad Fiqri Firmansyah](https://github.com/TakanashaTaryu) [RYU]
   > As an academician.
 - [Umar Zaki Gunawan](https://github.com/marzkigun27) [UZY]
